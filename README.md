@@ -1,4 +1,4 @@
-# fenalco-proyecto-base
+# Fenalco proyecto base
 
 A continuación se describen los requerimientos mínimos en documentación para el control y despliegue de cada una de las APP y/o API.
 
